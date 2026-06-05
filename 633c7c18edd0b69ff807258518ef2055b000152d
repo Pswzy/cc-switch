@@ -1,0 +1,67 @@
+src/hooks/useProviderActions.ts
+  1d3801d1ec1ea8d7 5-11,50-73,168-182,194-201,287-301,346,348,351
+src/i18n/locales/zh-TW.json
+  1d3801d1ec1ea8d7 1031-1033
+src/i18n/locales/ja.json
+  1d3801d1ec1ea8d7 1059-1061
+src/i18n/locales/en.json
+  1d3801d1ec1ea8d7 1059-1061
+src/components/providers/forms/ClaudeFormFields.tsx
+  h_ac015dea976d44 125,127,187,189,204,378,384-386,925-945
+src-tauri/src/proxy/forwarder.rs
+  1d3801d1ec1ea8d7 51-67,480,579,725,891,1112,1134-1136,1304-1319,2018-2098
+src-tauri/src/proxy/media_sanitizer.rs
+  1d3801d1ec1ea8d7 80-85,110-117,129,152,173-239,684-690,695-716
+src/App.tsx
+  1d3801d1ec1ea8d7 269-277,1234-1235,1237
+src/components/providers/forms/ProviderForm.tsx
+  1d3801d1ec1ea8d7 308-310,350,1417-1419,1543-1544,2015,2017
+src/i18n/locales/zh.json
+  1d3801d1ec1ea8d7 1059-1061
+src-tauri/src/proxy/mod.rs
+  1d3801d1ec1ea8d7 20
+src-tauri/src/proxy/image_context.rs
+  1d3801d1ec1ea8d7 1-4,16-89,91-110,113-290,292-312,314-322,324-555,557-559,561-624,626,628-630,632-655,657-674,676-701,705-734,736-762,764-767
+src/types.ts
+  1d3801d1ec1ea8d7 186-187
+src/components/providers/forms/ClaudeDesktopProviderForm.tsx
+  h_ac015dea976d44 259-261,396,428,543,654-655,999-1030
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.0",
+  "base_commit_sha": "633c7c18edd0b69ff807258518ef2055b000152d",
+  "prompts": {
+    "1d3801d1ec1ea8d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ebf8e07b-b1c7-4f5e-b862-207e31fcd81f",
+        "model": "qwen3.7-max"
+      },
+      "human_author": "zhuzhiyong <zhuzhiyong@cvte.com>",
+      "messages": [],
+      "total_additions": 1113,
+      "total_deletions": 11,
+      "accepted_lines": 1093,
+      "overriden_lines": 17
+    },
+    "fbd0a7434a0e56c7": {
+      "agent_id": {
+        "tool": "known_human",
+        "id": "known_human_session",
+        "model": "unknown"
+      },
+      "human_author": "zhuzhiyong <zhuzhiyong@cvte.com>",
+      "messages": [],
+      "total_additions": 73,
+      "total_deletions": 2,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_ac015dea976d44": {
+      "author": "zhuzhiyong"
+    }
+  }
+}
