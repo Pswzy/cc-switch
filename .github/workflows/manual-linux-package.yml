@@ -1,6 +1,9 @@
 name: Manual Linux Package
 
 on:
+  push:
+    branches:
+      - linux-package-build
   workflow_dispatch:
 
 jobs:
