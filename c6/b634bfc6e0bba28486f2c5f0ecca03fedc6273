@@ -1,0 +1,49 @@
+src/App.tsx
+  1d3801d1ec1ea8d7 269-274,276-277,1234-1235,1237
+src/i18n/locales/zh-TW.json
+  1d3801d1ec1ea8d7 1037-1039
+src/hooks/useProviderActions.ts
+  1d3801d1ec1ea8d7 5-11,50-63,65-73,168-176,182,194-201,287-301,346,348,351
+src/i18n/locales/zh.json
+  1d3801d1ec1ea8d7 1065-1067
+src/components/providers/forms/ClaudeFormFields.tsx
+  h_ac015dea976d44 126,128,192,194,211,386,392-394,932-952
+src-tauri/src/proxy/image_context.rs
+  1d3801d1ec1ea8d7 1-4,16-89,91-110,113-290,292-312,314-322,324-555,557-559,561-624,626,628-630,632-655,657-674,676-701,705-734,736-762,764-767
+src/components/providers/forms/ClaudeDesktopProviderForm.tsx
+  h_ac015dea976d44 259-261,396,428,543,654-655,999-1008,1012-1030
+src-tauri/src/proxy/forwarder.rs
+  1d3801d1ec1ea8d7 56-72,485,585,732,899,1124,1146-1148,1316-1331,2083-2136,2138-2163
+src/i18n/locales/en.json
+  1d3801d1ec1ea8d7 1065-1067
+src/types.ts
+  1d3801d1ec1ea8d7 186-187
+src-tauri/src/proxy/media_sanitizer.rs
+  1d3801d1ec1ea8d7 73-78,104-111,123,158,236-302,795-801,806-827
+src-tauri/src/proxy/mod.rs
+  1d3801d1ec1ea8d7 20
+src/components/providers/forms/ProviderForm.tsx
+  1d3801d1ec1ea8d7 308-310,350,1425-1427,1551-1552,2023,2025
+src/i18n/locales/ja.json
+  1d3801d1ec1ea8d7 1065-1067
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.0",
+  "base_commit_sha": "c6b634bfc6e0bba28486f2c5f0ecca03fedc6273",
+  "prompts": {
+    "1d3801d1ec1ea8d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ebf8e07b-b1c7-4f5e-b862-207e31fcd81f",
+        "model": "qwen3.7-max"
+      },
+      "human_author": "zhuzhiyong <zhuzhiyong@cvte.com>",
+      "messages": [],
+      "total_additions": 1113,
+      "total_deletions": 11,
+      "accepted_lines": 1074,
+      "overriden_lines": 0
+    }
+  }
+}

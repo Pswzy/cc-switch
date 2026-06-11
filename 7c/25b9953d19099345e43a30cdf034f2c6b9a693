@@ -1,0 +1,27 @@
+src/App.tsx
+  1d3801d1ec1ea8d7 269-274,277-278,1235-1236,1238
+src/hooks/useProviderActions.ts
+  1d3801d1ec1ea8d7 5-11,50-63,67-75,170-178,190,202-209,295-309,354,356,359
+src/components/providers/forms/ClaudeDesktopProviderForm.tsx
+  h_ac015dea976d44 259-261,396,428,543,654-655,999-1008,1010-1028
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.0",
+  "base_commit_sha": "7c25b9953d19099345e43a30cdf034f2c6b9a693",
+  "prompts": {
+    "1d3801d1ec1ea8d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ebf8e07b-b1c7-4f5e-b862-207e31fcd81f",
+        "model": "qwen3.7-max"
+      },
+      "human_author": "zhuzhiyong <zhuzhiyong@cvte.com>",
+      "messages": [],
+      "total_additions": 1113,
+      "total_deletions": 11,
+      "accepted_lines": 11,
+      "overriden_lines": 0
+    }
+  }
+}
