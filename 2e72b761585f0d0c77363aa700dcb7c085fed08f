@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.3",
+  "base_commit_sha": "2e72b761585f0d0c77363aa700dcb7c085fed08f",
+  "prompts": {
+    "1d3801d1ec1ea8d7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ebf8e07b-b1c7-4f5e-b862-207e31fcd81f",
+        "model": "qwen3.7-max"
+      },
+      "human_author": "zhuzhiyong <zhuzhiyong@cvte.com>",
+      "messages": [],
+      "total_additions": 1113,
+      "total_deletions": 11,
+      "accepted_lines": 918,
+      "overriden_lines": 0
+    }
+  }
+}
